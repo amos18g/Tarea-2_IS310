@@ -1,6 +1,7 @@
 # TAREA #2 IS310: COLA DE PRIORIDADES EN GO
 
 ![](https://4.bp.blogspot.com/-jWnDcTidAAI/WSImlrHb6aI/AAAAAAAAAHk/FhpDcz-rGXs0Vd_lj-3VNnmPNuwQMOYrgCLcB/s1600/cola%2Bprio.png)
+
 **Detalles de la tarea:**
 Se utilizo la implementación que aparece en el libro de Joyanes (sección 11.2) escrito en Go.
 Los objetos que contiene la de prioridades son **tareas**  (estas se crean gracias a la clase tareas.go)
